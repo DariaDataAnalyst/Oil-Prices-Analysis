@@ -1,7 +1,16 @@
 # Oil Prices Analysis
-Project Description:
+## Project Description:
 Identify and analyze the factors and macroeconomic trends that drive movements in oil prices,
 forecast fluctuations in oil prices, enabling stakeholders to make informed trading decisions.
+
+## Project Deliverables:
+- Cleaning procedures
+- Exploring Relationships
+- Geographical Visualizations with Python
+- Supervised Machine Learning: Regression
+- Unsupervised Machine Learning: Clustering
+- Analyzing Time Series Data
+- Creating Data Story in Tableau
 
 # Oil Prices Project
 ## Objectives:
