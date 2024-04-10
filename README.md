@@ -14,11 +14,11 @@ forecast fluctuations in oil prices, enabling stakeholders to make informed trad
 
 # Oil Prices Project
 ## Objectives:
-• Gather historical data on oil prices and relevant predictor variables from various sources,
+- Gather historical data on oil prices and relevant predictor variables from various sources,
 such as financial databases, industry publications and reports
-• Investigate the key factors that historically influence oil prices, including supply and demand dynamics, macroeconomic indicators (e.g., GDP growth, inflation rates), OPEC’s supply decisions and examine the correlation between oil prices and key macroeconomic indicators
-• Analyze the impact of technological advancements, such as oil production
-• Provide industry stakeholders with insights and recommendations based on research findings, helping them make informed decisions. Develop decision support tools, dashboard that provide recommendations for oil traders.
+- Investigate the key factors that historically influence oil prices, including supply and demand dynamics, macroeconomic indicators (e.g., GDP growth, inflation rates), OPEC’s supply decisions and examine the correlation between oil prices and key macroeconomic indicators
+- Analyze the impact of technological advancements, such as oil production
+- Provide industry stakeholders with insights and recommendations based on research findings, helping them make informed decisions. Develop decision support tools, dashboard that provide recommendations for oil traders.
 ## Research Questions:
 1. What role do supply and demand dynamics, including changes in oil production play in shaping oil price trends?
 2. To what extent do global macroeconomic indicators, such as GDP, inflation, and interest rates, affect oil prices?
