@@ -28,14 +28,14 @@ such as financial databases, industry publications and reports
 ## Stakeholders:
 • Oil Traders
 ## Data:
-• Data Source
+### Data Source
 OPEC Member Countries’ historical data, directly communicated or based on secondary sources. https://asb.opec.org/data/ASB_Data.php
 DataHub https://datahub.io/core/gdp https://datahub.io/core/oil-prices
-• Datacollectionmethod
+### Data collection method
 Directly communicated or based on secondary sources.
-• Datalimitations
-• Data obtained through direct communication methods may be influenced by subjective interpretations, perceptions, or biases of the individuals providing the information;
-• Secondary sources may be subject to biases or selective reporting, particularly if they are influenced by commercial interests, political agendas, or editorial decisions. Additionally, secondary sources may not always provide complete or comprehensive information on the topic of interest, leading to gaps or limitations in the data.
-• Datarelevancy
-This data is relevant to our analysis. Quality and reliability are guaranteed by using an
-official institution’s open data.
+
+### Data limitations
+- Data obtained through direct communication methods may be influenced by subjective interpretations, perceptions, or biases of the individuals providing the information;
+- Secondary sources may be subject to biases or selective reporting, particularly if they are influenced by commercial interests, political agendas, or editorial decisions. Additionally, secondary sources may not always provide complete or comprehensive information on the topic of interest, leading to gaps or limitations in the data.
+### Data relevancy
+This data is relevant to our analysis. Quality and reliability are guaranteed by using an official institution’s open data.
